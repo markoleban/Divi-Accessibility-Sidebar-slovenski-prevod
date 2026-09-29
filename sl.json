@@ -1,0 +1,619 @@
+{
+  "locale": "sl",
+  "name_english": "slovenščina",
+  "name_locale": "slovenščina",
+  "is_rtl": false,
+
+  "dvmd_actw_skip_to_navigation": {
+    "text": "Preskoči na navigacijo",
+    "label": "Preskoči na navigacijo spletne strani."
+  },
+  "dvmd_actw_skip_to_content": {
+    "text": "Preskoči na vsebino.",
+    "label": "Preskoči na vsebino spletne strani."
+  },
+  "dvmd_actw_skip_to_footer": {
+    "text": "Preskoči na nogo",
+    "label": "Preskoči na nogo spletne strani."
+  },
+  "dvmd_actw_open_accessibility_sidebar": {
+    "text": "Odpri stransko vrstico dostopnosti",
+    "label": "Odpri stransko vrstico dostopnosti"
+  },
+  
+
+  "dvmd_acsb_button": {
+    "label": "Prikaži ali skrij stransko vrstico dostopnosti."
+  },
+
+
+  "dvmd_acsb_sidebar": {
+    "label": "Stranska vrstica dostopnosti",
+    "description": "Prilagodite videz spletne strani za boljšo dostopnost."
+  },
+  "dvmd_acsb_close_sidebar": {
+    "text": "Zapri",
+    "label": "Zapri stransko vrstico dostopnosti."
+  },
+  "dvmd_acsb_reset_sidebar": {
+    "text": "Ponastavi",
+    "label": "Ponastavi stransko vrstico dostopnosti."
+  },
+
+
+  "dvmd_acsb_sidebar_settings": {
+    "text": "Nastavitve stranske vrstice",
+    "label": "Nastavitve stranske vrstice",
+    "description": "Nastavitve stranske vrstice omogočajo uporabnikom prilagoditev videza stranske vrstice dostopnosti."
+  },
+
+
+  "dvmd_acsb_sidebar_size": {
+    "text": "Velikost stranske vrstice",
+    "label": "Velikost stranske vrstice",
+    "description": "Prilagodite velikost stranske vrstice dostopnosti."
+  },
+  "dvmd_acsb_sidebar_size_1": {
+    "text": "1",
+    "label": "Velikost stranske vrstice – najmanjša"
+  },
+  "dvmd_acsb_sidebar_size_2": {
+    "text": "2",
+    "label": "Velikost stranske vrstice – manjša"
+  },
+  "dvmd_acsb_sidebar_size_3": {
+    "text": "3",
+    "label": "Velikost stranske vrstice – običajna"
+  },
+  "dvmd_acsb_sidebar_size_4": {
+    "text": "4",
+    "label": "Velikost stranske vrstice – večja"
+  },
+  "dvmd_acsb_sidebar_size_5": {
+    "text": "5",
+    "label": "Velikost stranske vrstice – največja"
+  },
+
+
+  "dvmd_acsb_sidebar_position": {
+    "text": "Položaj stranske vrstice",
+    "label": "Položaj stranske vrstice",
+    "description": "Prilagodite položaj stranske vrstice dostopnosti."
+  },
+  "dvmd_acsb_sidebar_position_left": {
+    "text": "Levo",
+    "label": "Položaj stranske vrstice – levo"
+  },
+  "dvmd_acsb_sidebar_position_right": {
+    "text": "Desno",
+    "label": "Položaj stranske vrstice – desno"
+  },
+
+
+  "dvmd_acsb_sidebar_language": {
+    "text": "Jezik stranske vrstice",
+    "label": "Jezik stranske vrstice",
+    "description": "Izberite jezik stranske vrstice dostopnosti."
+  },
+
+
+  "dvmd_acsb_hide_sidebar": {
+    "text": "Skrij stransko vrstico",
+    "label": "Skrij stransko vrstico",
+    "description": "Skrij stransko vrstico dostopnosti za do en teden."
+  },
+  "dvmd_acsb_hide_sidebar_once": {
+    "text": "Enkrat",
+    "label": "Skrij stransko vrstico – enkrat",
+    "description": "Skrij stransko vrstico, dokler se stran ne osveži."
+  },
+  "dvmd_acsb_hide_sidebar_session": {
+    "text": "Seja",
+    "label": "Skrij stransko vrstico – seja",
+    "description": "Skrij stransko vrstico, dokler se brskalnik ne zažene znova."
+  },
+  "dvmd_acsb_hide_sidebar_day": {
+    "text": "Dan",
+    "label": "Skrij stransko vrstico – dan",
+    "description": "Skrij stransko vrstico za en dan."
+  },
+  "dvmd_acsb_hide_sidebar_week": {
+    "text": "Teden",
+    "label": "Skrij stransko vrstico – teden",
+    "description": "Skrij stransko vrstico za en teden."
+  },
+  "dvmd_acsb_hide_sidebar_button": {
+    "text": "Skrij zdaj",
+    "label": "Skrij zdaj",
+    "description": "Skrij stransko vrstico dostopnosti zdaj."
+  },
+
+
+  "dvmd_acsb_accessibility_profiles": {
+    "text": "Profili dostopnosti",
+    "label": "Profili dostopnosti",
+    "description": "Profili dostopnosti aktivirajo več orodij z namenom izboljšanja dostopnosti spletne strani glede na potrebe ali želje uporabnikov."
+  },
+
+
+  "dvmd_acsb_profile": {
+    "text": "Profil dostopnosti",
+    "label": "Profil dostopnosti",
+    "description": "Izberite profil dostopnosti, ki ustreza vašim potrebam ali željam."
+  },
+  "dvmd_acsb_profile_none": {
+    "text": "Brez",
+    "label": "Profil dostopnosti – brez",
+    "description": "Izberite profil dostopnosti."
+  },
+  "dvmd_acsb_profile_blindness": {
+    "text": "Slepota",
+    "label": "Profil dostopnosti – slepota",
+    "description": "Ta profil omogoči orodje bralnik zaslona z namenom izboljšanja dostopnosti za slepe uporabnike."
+  },
+  "dvmd_acsb_profile_color_blindness": {
+    "text": "Barvna slepota",
+    "label": "Profil dostopnosti – barvna slepota",
+    "description": "Ta profil omogoči orodje za nasičenost barv z namenom izboljšanja dostopnosti za uporabnike z barvno slepoto."
+  },
+  "dvmd_acsb_profile_visual_impairment": {
+    "text": "Slabovidnost",
+    "label": "Profil dostopnosti – slabovidnost",
+    "description": "Ta profil omogoči več orodij z namenom izboljšanja dostopnosti za slabovidne uporabnike."
+  },
+  "dvmd_acsb_profile_motor_impairment": {
+    "text": "Motorične ovire",
+    "label": "Profil dostopnosti – motorične ovire",
+    "description": "Ta profil omogoči več orodij z namenom izboljšanja dostopnosti za uporabnike z motoričnimi ovirami."
+  },
+  "dvmd_acsb_profile_cognitive_disability": {
+    "text": "Kognitivne motnje",
+    "label": "Profil dostopnosti – kognitivne motnje",
+    "description": "Ta profil omogoči več orodij z namenom izboljšanja dostopnosti za uporabnike s kognitivnimi motnjami."
+  },
+  "dvmd_acsb_profile_seizures_and_epilepsy": {
+    "text": "Napadi in epilepsija",
+    "label": "Profil dostopnosti – napadi in epilepsija",
+    "description": "Ta profil omogoči več orodij z namenom izboljšanja dostopnosti za uporabnike z napadi ali epilepsijo."
+  },
+  "dvmd_acsb_profile_dyslexia": {
+    "text": "Disleksija",
+    "label": "Profil dostopnosti – disleksija",
+    "description": "Ta profil omogoči več orodij z namenom izboljšanja dostopnosti za uporabnike z disleksijo."
+  },
+  "dvmd_acsb_profile_adhd": {
+    "text": "ADHD",
+    "label": "Profil dostopnosti – ADHD",
+    "description": "Ta profil omogoči več orodij z namenom izboljšanja dostopnosti za uporabnike z ADHD."
+  },
+
+
+  "dvmd_acsb_screen_reader": {
+    "text": "Bralnik zaslona",
+    "label": "Bralnik zaslona",
+    "description": "Bralnik zaslona pretvori besedilo spletne strani v govor za uporabnike s slabšim vidom ali težavami pri branju."
+  },
+
+
+  "dvmd_acsb_screen_reader_mode": {
+    "text": "Način bralnika zaslona",
+    "label": "Način bralnika zaslona",
+    "description": "Izberite način bralnika zaslona za pretvorbo besedila spletne strani v govor."
+  },
+  "dvmd_acsb_screen_reader_mode_off": {
+    "label": "Način bralnika zaslona – izklopljeno",
+    "description": "Izberite način bralnika zaslona."
+  },
+  "dvmd_acsb_screen_reader_mode_manual": {
+    "label": "Način bralnika zaslona – ročno",
+    "description": "V tem načinu bo bralnik zaslona bral aktivni element spletne strani. Kliknite ali se s tipko tab pomaknite na element, ki naj ga bralnik prebere."
+  },
+  "dvmd_acsb_screen_reader_mode_automatic": {
+    "label": "Način bralnika zaslona – samodejno",
+    "description": "V tem načinu bo bralnik zaslona bral celotno vsebino spletne strani. S klikom na gumb bralnik zaslona začasno ustavite ali nadaljujete."
+  },
+
+
+  "dvmd_acsb_screen_reader_speed": {
+    "text": "Hitrost bralnika zaslona",
+    "label": "Hitrost bralnika zaslona",
+    "description": "Izberite hitrost glasu bralnika zaslona."
+  },
+  "dvmd_acsb_screen_reader_speed_slow": {
+    "text": "Počasi",
+    "label": "Hitrost bralnika zaslona – počasi"
+  },
+  "dvmd_acsb_screen_reader_speed_medium": {
+    "text": "Srednje",
+    "label": "Hitrost bralnika zaslona – srednje"
+  },
+  "dvmd_acsb_screen_reader_speed_fast": {
+    "text": "Hitro",
+    "label": "Hitrost bralnika zaslona – hitro"
+  },
+
+
+  "dvmd_acsb_screen_reader_voice": {
+    "text": "Glas bralnika zaslona",
+    "label": "Glas bralnika zaslona",
+    "description": "Izberite glas bralnika zaslona, ki ustreza vašim potrebam ali željam."
+  },
+  "dvmd_acsb_screen_reader_voice_list": {
+    "label": "Izberite glas bralnika zaslona"
+  },
+  "dvmd_acsb_screen_reader_voice_error": {
+    "text": "Napaka pri pridobivanju glasu bralnika zaslona",
+    "label": "Pri pridobivanju glasu bralnika zaslona je prišlo do napake"
+  },
+  "dvmd_acsb_screen_reader_voice_other_group": {
+    "text": "Drugo"
+  },
+  "dvmd_acsb_screen_reader_voice_system_option": {
+    "text": "Uporabi sistemsko privzeto"
+  },
+  "dvmd_acsb_screen_reader_voice_sidebar_option": {
+    "text": "Prilagodi jeziku stranske vrstice"
+  },
+
+
+  "dvmd_acsb_navigation_tools": {
+    "text": "Orodja za navigacijo",
+    "label": "Orodja za navigacijo",
+    "description": "Orodja za navigacijo omogočajo optimizirano krmarjenje po spletni strani za vse uporabnike."
+  },
+
+
+  "dvmd_acsb_large_cursor": {
+    "text": "Velik kazalec",
+    "label": "Velik kazalec",
+    "description": "Prilagodite velikost in barvo kazalca na spletni strani."
+  },
+  "dvmd_acsb_large_cursor_off": {
+    "label": "Velik kazalec – izklopljeno"
+  },
+  "dvmd_acsb_large_cursor_black": {
+    "text": "Črn",
+    "label": "Velik kazalec – črn"
+  },
+  "dvmd_acsb_large_cursor_white": {
+    "text": "Bel",
+    "label": "Velik kazalec – bel"
+  },
+
+
+  "dvmd_acsb_focus_ring": {
+    "text": "Okvir fokusa",
+    "label": "Okvir fokusa",
+    "description": "Omogočite okvir fokusa za poudarjanje trenutno izbranega elementa spletne strani."
+  },
+  "dvmd_acsb_focus_ring_off": {
+    "label": "Okvir fokusa – izklopljeno"
+  },
+  "dvmd_acsb_focus_ring_on": {
+    "text": "Okvir fokusa",
+    "label": "Okvir fokusa – vklopljeno"
+  },
+
+
+  "dvmd_acsb_page_structure": {
+    "text": "Struktura strani",
+    "label": "Struktura strani",
+    "description": "Razkrijte strukturo spletne strani s seznamom in poudarjanjem naslovov, mejnikov in povezav strani."
+  },
+  "dvmd_acsb_page_structure_off": {
+    "label": "Struktura strani – izklopljeno"
+  },
+  "dvmd_acsb_page_structure_off_note": {
+    "text": "Izberite zavihek za ogled strukture strani."
+  },
+  "dvmd_acsb_page_structure_headings": {
+    "text": "Naslovi",
+    "label": "Struktura strani – naslovi"
+  },
+  "dvmd_acsb_page_structure_headings_note": {
+    "text": "Ni najdenih naslovov."
+  },
+  "dvmd_acsb_page_structure_landmarks": {
+    "text": "Mejniki",
+    "label": "Struktura strani – mejniki"
+  },
+  "dvmd_acsb_page_structure_landmarks_note": {
+    "text": "Ni najdenih mejnikov."
+  },
+  "dvmd_acsb_page_structure_links": {
+    "text": "Povezave",
+    "label": "Struktura strani – povezave"
+  },
+  "dvmd_acsb_page_structure_links_note": {
+    "text": "Ni najdenih povezav."
+  },
+
+
+  "dvmd_acsb_reading_tools": {
+    "text": "Orodja za branje",
+    "label": "Orodja za branje",
+    "description": "Orodja za branje izboljšajo berljivost spletne strani za uporabnike s težavami pri branju."
+  },
+
+
+  "dvmd_acsb_tooltip": {
+    "text": "Namig",
+    "label": "Namig",
+    "description": "Omogočite namig za prikaz dodatnih informacij o aktivnem elementu spletne strani."
+  },
+  "dvmd_acsb_tooltip_off": {
+    "label": "Namig – izklopljeno"
+  },
+  "dvmd_acsb_tooltip_small": {
+    "text": "Majhen",
+    "label": "Namig – majhen"
+  },
+  "dvmd_acsb_tooltip_medium": {
+    "text": "Srednji",
+    "label": "Namig – srednji"
+  },
+  "dvmd_acsb_tooltip_large": {
+    "text": "Velik",
+    "label": "Namig – velik"
+  },
+
+
+  "dvmd_acsb_reading_guide": {
+    "text": "Bralno vodilo",
+    "label": "Bralno vodilo",
+    "description": "Omogočite bralno vodilo za osredotočanje na eno vrstico besedila naenkrat."
+  },
+  "dvmd_acsb_reading_guide_off": {
+    "label": "Bralno vodilo – izklopljeno"
+  },
+  "dvmd_acsb_reading_guide_small": {
+    "text": "Majhno",
+    "label": "Bralno vodilo – majhno"
+  },
+  "dvmd_acsb_reading_guide_medium": {
+    "text": "Srednje",
+    "label": "Bralno vodilo – srednje"
+  },
+  "dvmd_acsb_reading_guide_large": {
+    "text": "Veliko",
+    "label": "Bralno vodilo – veliko"
+  },
+
+
+  "dvmd_acsb_reading_mask": {
+    "text": "Bralna maska",
+    "label": "Bralna maska",
+    "description": "Omogočite bralno masko za osredotočanje na določeno vsebino spletne strani."
+  },
+  "dvmd_acsb_reading_mask_off": {
+    "label": "Bralna maska – izklopljeno"
+  },
+  "dvmd_acsb_reading_mask_small": {
+    "text": "Majhna",
+    "label": "Bralna maska – majhna"
+  },
+  "dvmd_acsb_reading_mask_medium": {
+    "text": "Srednja",
+    "label": "Bralna maska – srednja"
+  },
+  "dvmd_acsb_reading_mask_large": {
+    "text": "Velika",
+    "label": "Bralna maska – velika"
+  },
+
+
+  "dvmd_acsb_text_tools": {
+    "text": "Orodja za besedilo",
+    "label": "Orodja za besedilo",
+    "description": "Orodja za besedilo izboljšajo berljivost spletne strani za slabovidne uporabnike."
+  },
+
+
+  "dvmd_acsb_text_font": {
+    "text": "Pisava besedila",
+    "label": "Pisava besedila",
+    "description": "Prilagodite pisavo besedila spletne strani za boljšo berljivost."
+  },
+  "dvmd_acsb_text_font_off": {
+    "label": "Pisava besedila – izklopljeno"
+  },
+  "dvmd_acsb_text_font_sansserif": {
+    "text": "Brez serifov",
+    "label": "Pisava besedila – brez serifov"
+  },
+  "dvmd_acsb_text_font_dyslexic": {
+    "text": "Za disleksijo",
+    "label": "Pisava besedila – za disleksijo"
+  },
+
+
+  "dvmd_acsb_text_size": {
+    "text": "Velikost besedila",
+    "label": "Velikost besedila",
+    "description": "Prilagodite velikost besedila spletne strani za udobno branje."
+  },
+  "dvmd_acsb_text_size_off": {
+    "label": "Velikost besedila – izklopljeno"
+  },
+  "dvmd_acsb_text_size_1": {
+    "label": "Velikost besedila – 10 % večje"
+  },
+  "dvmd_acsb_text_size_2": {
+    "label": "Velikost besedila – 30 % večje"
+  },
+  "dvmd_acsb_text_size_3": {
+    "label": "Velikost besedila – 50 % večje"
+  },
+  "dvmd_acsb_text_size_4": {
+    "label": "Velikost besedila – 70 % večje"
+  },
+
+
+  "dvmd_acsb_line_height": {
+    "text": "Višina vrstice",
+    "label": "Višina vrstice",
+    "description": "Prilagodite razmik med vrsticami na spletni strani za manjšo utrujenost oči."
+  },
+  "dvmd_acsb_line_height_off": {
+    "label": "Višina vrstice – izklopljeno"
+  },
+  "dvmd_acsb_line_height_1": {
+    "label": "Višina vrstice – 1,5"
+  },
+  "dvmd_acsb_line_height_2": {
+    "label": "Višina vrstice – 2"
+  },
+  "dvmd_acsb_line_height_3": {
+    "label": "Višina vrstice – 2,5"
+  },
+  "dvmd_acsb_line_height_4": {
+    "label": "Višina vrstice – 3"
+  },
+
+
+  "dvmd_acsb_text_spacing": {
+    "text": "Razmik besedila",
+    "label": "Razmik besedila",
+    "description": "Prilagodite razmik med znaki na spletni strani za boljšo berljivost."
+  },
+  "dvmd_acsb_text_spacing_off": {
+    "label": "Razmik besedila – izklopljeno"
+  },
+  "dvmd_acsb_text_spacing_1": {
+    "label": "Razmik besedila – 10 %"
+  },
+  "dvmd_acsb_text_spacing_2": {
+    "label": "Razmik besedila – 20 %"
+  },
+  "dvmd_acsb_text_spacing_3": {
+    "label": "Razmik besedila – 30 %"
+  },
+  "dvmd_acsb_text_spacing_4": {
+    "label": "Razmik besedila – 40 %"
+  },
+
+
+  "dvmd_acsb_text_alignment": {
+    "text": "Poravnava besedila",
+    "label": "Poravnava besedila",
+    "description": "Prilagodite poravnavo besedila na spletni strani za optimalno berljivost."
+  },
+  "dvmd_acsb_text_alignment_off": {
+    "label": "Poravnava besedila – izklopljeno"
+  },
+  "dvmd_acsb_text_alignment_left": {
+    "label": "Poravnava besedila – levo"
+  },
+  "dvmd_acsb_text_alignment_center": {
+    "label": "Poravnava besedila – sredina"
+  },
+  "dvmd_acsb_text_alignment_right": {
+    "label": "Poravnava besedila – desno"
+  },
+  "dvmd_acsb_text_alignment_justify": {
+    "label": "Poravnava besedila – obojestransko"
+  },
+
+
+  "dvmd_acsb_graphics_tools": {
+    "text": "Orodja za grafiko",
+    "label": "Orodja za grafiko",
+    "description": "Orodja za grafiko optimizirajo videz spletne strani za slabovidne uporabnike ali uporabnike s senzoričnimi občutljivostmi."
+  },
+
+
+  "dvmd_acsb_color_saturation": {
+    "text": "Nasičenost barv",
+    "label": "Nasičenost barv",
+    "description": "Prilagodite intenzivnost barv na spletni strani za boljšo vidljivost."
+  },
+  "dvmd_acsb_color_saturation_off": {
+    "label": "Nasičenost barv – izklopljeno"
+  },
+  "dvmd_acsb_color_saturation_none": {
+    "text": "Brez",
+    "label": "Nasičenost barv – brez"
+  },
+  "dvmd_acsb_color_saturation_low": {
+    "text": "Nizka",
+    "label": "Nasičenost barv – nizka"
+  },
+  "dvmd_acsb_color_saturation_high": {
+    "text": "Visoka",
+    "label": "Nasičenost barv – visoka"
+  },
+
+
+  "dvmd_acsb_color_contrast": {
+    "text": "Barvni kontrast",
+    "label": "Barvni kontrast",
+    "description": "Prilagodite kontrast med besedilom in ozadjem spletne strani za boljšo berljivost."
+  },
+  "dvmd_acsb_color_contrast_off": {
+    "label": "Barvni kontrast – izklopljeno"
+  },
+  "dvmd_acsb_color_contrast_invert": {
+    "text": "Obrni",
+    "label": "Barvni kontrast – obrni"
+  },
+  "dvmd_acsb_color_contrast_dark": {
+    "text": "Temno",
+    "label": "Barvni kontrast – temno"
+  },
+  "dvmd_acsb_color_contrast_light": {
+    "text": "Svetlo",
+    "label": "Barvni kontrast – svetlo"
+  },
+
+
+  "dvmd_acsb_hide_images": {
+    "text": "Skrij slike",
+    "label": "Skrij slike",
+    "description": "Skrijte slike na spletni strani za manj vizualnega nereda in boljšo osredotočenost."
+  },
+  "dvmd_acsb_hide_images_off": {
+    "label": "Skrij slike – izklopljeno"
+  },
+  "dvmd_acsb_hide_images_on": {
+    "text": "Skrij slike",
+    "label": "Skrij slike – vklopljeno"
+  },
+
+
+  "dvmd_acsb_stop_animations": {
+    "text": "Ustavi animacije",
+    "label": "Ustavi animacije",
+    "description": "Onemogočite CSS-učinke gibanja in animacije GIF na spletni strani za manj motenj."
+  },
+  "dvmd_acsb_stop_animations_off": {
+    "label": "Ustavi animacije – izklopljeno"
+  },
+  "dvmd_acsb_stop_animations_on": {
+    "text": "Ustavi animacije",
+    "label": "Ustavi animacije – vklopljeno"
+  },
+
+
+  "dvmd_acsb_accessibility_statement": {
+    "text": "Izjava o dostopnosti",
+    "label": "Izjava o dostopnosti",
+    "description": "Izjava o dostopnosti uporabnikom omogoča neposreden dostop do pomembnih informacij o dostopnosti spletne strani."
+  },
+
+
+  "dvmd_acsb_statement_text": {
+    "label": "Besedilo izjave o dostopnosti"
+  },
+  "dvmd_acsb_statement_page": {
+    "text": "Stran z izjavo",
+    "label": "Stran z izjavo o dostopnosti",
+    "description": "Pojdite na stran z izjavo o dostopnosti spletne strani."
+  },
+
+
+  "dvmd_acsb_plugin_credit": {
+    "text": "Ustvaril Divi-Modules",
+    "label": "Ustvaril Divi-Modules",
+    "description": "Obiščite divi-modules.com"
+  }
+}
